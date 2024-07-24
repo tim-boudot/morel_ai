@@ -1,1 +1,1 @@
-console.log('Landing page loaded');
+console.log('AI Consulting Landing Page');
